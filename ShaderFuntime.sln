@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ShaderFuntime", "ShaderFuntime\ShaderFuntime.vcxproj", "{1DF2A8DA-6712-48E0-B913-CADF7A93C4FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DF2A8DA-6712-48E0-B913-CADF7A93C4FB}.Debug|x64.ActiveCfg = Debug|x64
+		{1DF2A8DA-6712-48E0-B913-CADF7A93C4FB}.Debug|x64.Build.0 = Debug|x64
+		{1DF2A8DA-6712-48E0-B913-CADF7A93C4FB}.Debug|x86.ActiveCfg = Debug|Win32
+		{1DF2A8DA-6712-48E0-B913-CADF7A93C4FB}.Debug|x86.Build.0 = Debug|Win32
+		{1DF2A8DA-6712-48E0-B913-CADF7A93C4FB}.Release|x64.ActiveCfg = Release|x64
+		{1DF2A8DA-6712-48E0-B913-CADF7A93C4FB}.Release|x64.Build.0 = Release|x64
+		{1DF2A8DA-6712-48E0-B913-CADF7A93C4FB}.Release|x86.ActiveCfg = Release|Win32
+		{1DF2A8DA-6712-48E0-B913-CADF7A93C4FB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC948B07-FB6D-4798-8D37-077D0203D120}
+	EndGlobalSection
+EndGlobal
