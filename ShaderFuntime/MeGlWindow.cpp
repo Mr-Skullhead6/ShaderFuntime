@@ -29,4 +29,4 @@ void MeGlWindow::paintGL()
 {
 	glViewport(0, 0, width(), height());
 	glDrawArrays(GL_TRIANGLES, 0, 6);
-}
+}//lkjdfkljklfjadsklgfj;dsklgj;klgjfkljgfkl
